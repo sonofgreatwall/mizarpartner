@@ -14,7 +14,7 @@ const TaskDetailsSection = () => {
   const tasks = Object.values(dataToDisplayOnChart).filter((item) => item.type === "task");
 
   return (
-    <div className="flex h-full shrink-0 w-full border border-taskinatorRed  relative">
+    <div className="flex h-full shrink-0 w-full  relative">
       <div className="flex h-full ">
         <DragToExpand direction="horizontal" minWidth={100} initialWidth={15 * 16} backgroundColor="bg-taskinatorLightGrey ">
           <div className="flex flex-col border-r border-taskinatorMedGrey grow ">

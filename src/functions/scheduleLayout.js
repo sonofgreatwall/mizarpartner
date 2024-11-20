@@ -104,6 +104,7 @@ const ScheduleLayout = () => {
     setNofRows(numberOfRows);
   }, [dataToDisplayOnChart]);
 
+  /// calculate which tasks should be visible and their offsets and widths
   useEffect(() => {
     let visibleData = {};
 
