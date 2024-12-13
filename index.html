@@ -11,14 +11,24 @@
 </head>
 
 <body>
-    <header class="mx-auto">
+    <header class="mx-auto relative">
         <nav class="flex justify-between items-center">
             <img src="./assets/imgs/logo.svg" alt="logo" style="width: 240px;">
             <ul class="flex justify-between items-center">
-                <a href="">About Us</a>
-                <a href="">Our Approach</a>
-                <a href="">Why Mizar Capital?</a>
-                <a href=""><img src="./assets/imgs/hambager.png" alt="hambager"></a>
+                <a onclick="currentSlide(2)" style="cursor: pointer;">About Us</a>
+                <a onclick="currentSlide(3)" style="cursor: pointer;">Our Approach</a>
+                <a onclick="currentSlide(4)" style="cursor: pointer;">Why Mizar Capital?</a>
+                <div class="menu-icon" onclick="openMenu(this)">
+                    <div class="bar1"></div>
+                    <div class="bar2"></div>
+                    <div class="bar3"></div>
+                    <div class="menu" id="menu" >
+                        <a onclick="currentSlide(5)" href="javascript:;">Our Focus Area</a>
+                        <a onclick="currentSlide(6)" href="javascript:;">Our Company</a>
+                        <a onclick="currentSlide(7)" href="javascript:;">Contact Us</a>
+                        <a onclick="currentSlide(8)" href="javascript:;">PartnerShip</a>
+                    </div>
+                </div>
             </ul>
         </nav>
     </header>
