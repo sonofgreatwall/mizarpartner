@@ -116,7 +116,7 @@ main {
     color: white;
     max-width: 1270px;
     top: 30px;
-    width: 100%;
+    width: 70%;
     padding: 0 30px;
     left: 50.5%;
    transform: translateX(-50%);
@@ -134,7 +134,7 @@ main {
     font-size: 1.25rem;
     line-height: 30.24px;
     font-weight: 400;
-    max-width: 40.5%;
+    max-width: 490px;
   }
   .page-btn-grp {
    display: flex; 
