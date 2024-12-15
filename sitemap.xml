@@ -1,9 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://www.mizarpartner.com</loc>
-    <lastmod>2024-12-12</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <!-- Homepage -->
+    <url>
+        <loc>https://www.mizarpartner.com</loc>
+        <lastmod>2024-12-15</lastmod>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- About Us page -->
+    <url>
+        <loc>https://www.mizarpartner.com/pages/about.html</loc>
+        <lastmod>2024-12-15</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Our Approach page -->
+    <url>
+        <loc>https://www.mizarpartner.com/pages/approach.html</loc>
+        <lastmod>2024-12-15</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Why Mizar Capital? page -->
+    <url>
+        <loc>https://www.mizarpartner.com/pages/why_mizar_capital.html</loc>
+        <lastmod>2024-12-15</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Our Focus Area page -->
+    <url>
+        <loc>https://www.mizarpartner.com/pages/focus_area.html</loc>
+        <lastmod>2024-12-15</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Our Company page -->
+    <url>
+        <loc>https://www.mizarpartner.com/pages/company.html</loc>
+        <lastmod>2024-12-15</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Contact Us page -->
+    <url>
+        <loc>https://www.mizarpartner.com/pages/contact.html</loc>
+        <lastmod>2024-12-15</lastmod>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Partnership page -->
+    <url>
+        <loc>https://www.mizarpartner.com/pages/partnership.html</loc>
+        <lastmod>2024-12-15</lastmod>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- Other important pages -->
+    <url>
+        <loc>https://www.mizarpartner.com/og-image.jpg</loc>
+        <lastmod>2024-12-15</lastmod>
+        <priority>0.5</priority>
+    </url>
+</urlset>

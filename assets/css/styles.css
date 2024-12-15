@@ -109,9 +109,9 @@ main {
   }
   
   /* Hide the images by default */
-  .mySlides {
+  /* .mySlides {
     display: none;
-  }
+  } */
   .section-content {
     color: white;
     max-width: 1270px;
