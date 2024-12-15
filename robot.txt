@@ -1,0 +1,3 @@
+# Allow all search engines to crawl the entire site 
+User-agent: * 
+Disallow: # Sitemap location Sitemap: https://www.mizarpartner.com/sitemap.xml
