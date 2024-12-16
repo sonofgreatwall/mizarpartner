@@ -125,7 +125,10 @@ main {
     font-size: 2rem;
     line-height: 45.36px;
     font-weight: 500;
-    color: #C0C0C0;
+    background-image: linear-gradient(to right, #BDA05E, #E4C959, #A37D28);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
   }
   .section-content > div {
     margin-top: 50px;
